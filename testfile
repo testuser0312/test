@@ -1,1 +1,5 @@
-
+public static void isMultipleOf3(int n){
+      boolean result;
+      result = ( n % 3  == 0 );
+      return result;
+   }
